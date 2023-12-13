@@ -31,11 +31,21 @@ Here I collect information about finding a job abroad. I added to this list not 
 
 ### 😃📖 FB groups with vacancies:
 1. [Remote Work & Jobs for Digital Nomads](https://www.facebook.com/groups/remotework.digitalnomads/)
-2. []()
-3. []()
-4. []()
-5. []()
-6. []()
+2. [Remote jobs at Best Startups By HexGn](https://www.facebook.com/groups/1113634295337385)
+3. [Remote Jobs](https://www.facebook.com/remotedotjobs/)
+4. [Remote Jobs, Work Anywhere - Inventive Hub](https://www.facebook.com/groups/inventivehub/)
+5. [Digital Nomad Jobs](https://www.facebook.com/digitalnomadjobs/)
+6. [Remote Tech Jobs](https://www.facebook.com/groups/remotestartupjobs/)
+
+### ✍️ Guides and services for creating a CV:
+1. [CV templates](https://www.canva.com/design/play?category=tACZCki4tbY&type=TACQ-j4WGew)
+2. [resumake](https://resumake.io/)
+3. [How To Create a STAR Method Resume (With Examples)](https://www.indeed.com/career-advice/resumes-cover-letters/star-method-resume)
+4. [The WHO Method – Resume Writing Techniques](https://education.msu.edu/kin-nections/2016/the-who-method-resume-writing-techniques/)
+5. [THE C.A.R. TECHNIQUE: YOUR SECRET INTERVIEWING WEAPON](https://thehiredguns.com/car-technique-secret-interviewing-weapon/#:~:text=R%20%3D%20Result-,So%20what%20does%20the%20acronym%20C.A.R.,and%20useful%20to%20the%20recipient.)
+
+### 🦆 Service for reviewing your CV by professional HRs and recruiters:
+1. [CV Duck](https://cvduck.pro/) Note: The site is under construction now, but maybe it will work later.
 
 ### 📝 My CV and Cover letter, as a sample. I believe it isn't ideal but I found a job with it, then it works 🎉:
 1. [CV Vlad Kovalchuk](https://docs.google.com/document/d/1MspinRj1gH04aCvx2xBntQ8y_D80exHMtadglPouImo/edit)
