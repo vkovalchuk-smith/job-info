@@ -17,9 +17,9 @@ Here I collect information about finding a job abroad. I added to this list not 
 14. [Skyworker](https://skyworker.ai/login)
 
 ### 🛠️ Where you can gain your first expirience:
-1. [Test Birds] (https://nest.testbirds.com/home/tester)
-2. [uTest] (https://www.utest.com/)
-3. [Upwork] (https://www.upwork.com/ab/account-security/login?redir=%2Fnx%2Ffind-work%2F)
+1. [Test Birds](https://nest.testbirds.com/home/tester)
+2. [uTest](https://www.utest.com/)
+3. [Upwork](https://www.upwork.com/ab/account-security/login?redir=%2Fnx%2Ffind-work%2F)
 
 
 ### 🏢 Lists of foreign remote-friendly companies:
