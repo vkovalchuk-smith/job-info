@@ -16,6 +16,12 @@ Here I collect information about finding a job abroad. I added to this list not 
 13. [Dice](https://www.dice.com/)
 14. [Skyworker](https://skyworker.ai/login)
 
+### 🛠️ Where you can gain your first expirience:
+1. [Test Birds] (https://nest.testbirds.com/home/tester)
+2. [uTest] (https://www.utest.com/)
+3. [Upwork] (https://www.upwork.com/ab/account-security/login?redir=%2Fnx%2Ffind-work%2F)
+
+
 ### 🏢 Lists of foreign remote-friendly companies:
 1. [900+ Startups hiring Remotely in 2023 - by Remotive.com](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369)
 2. [Top Remote-Friendly Companies - by Welfound](https://wellfound.com/job-collections/23-remote-friendly-companies)
