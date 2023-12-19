@@ -68,4 +68,4 @@ Here I collect information about finding a job abroad. I added to this list not 
 
 
 ### Interview
-1. https://docs.google.com/document/d/1JDMHXXjeYLTsvMr5T71EMGYygUM-_V0O1gSfCSPRHHk/edit?usp=sharing
+1. [English questions](https://docs.google.com/document/d/1JDMHXXjeYLTsvMr5T71EMGYygUM-_V0O1gSfCSPRHHk/edit?usp=sharing)
