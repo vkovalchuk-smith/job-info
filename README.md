@@ -65,3 +65,7 @@ Here I collect information about finding a job abroad. I added to this list not 
 ### ❓ Possible questions about the company and the position on the interview:
 1. [AskAbout](https://askabout.company/ua.html)
 2. [Reverse interview](https://github.com/viraptor/reverse-interview)
+
+
+### Interview
+1. https://docs.google.com/document/d/1JDMHXXjeYLTsvMr5T71EMGYygUM-_V0O1gSfCSPRHHk/edit?usp=sharing
