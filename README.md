@@ -67,5 +67,6 @@ Here I collect information about finding a job abroad. I added to this list not 
 2. [Reverse interview](https://github.com/viraptor/reverse-interview)
 
 
-### Interview
+### ⁉️ Preparation for the interview:
 1. [English questions](https://docs.google.com/document/d/1JDMHXXjeYLTsvMr5T71EMGYygUM-_V0O1gSfCSPRHHk/edit?usp=sharing)
+2. [Співбесіда з QA. 250+ запитань для Junior, Middle, Senior](https://dou.ua/lenta/articles/interview-qa/)
