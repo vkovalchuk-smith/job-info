@@ -1,4 +1,4 @@
-# job-info 1123413
+# job-info
 Here I collect information about finding a job abroad. I added to this list not only sites with vacancies, but also services for analyzing salaries in different countries, and tools for creating your resume.
 ### 🚀 Find the job of your dreams:
 1. [Wellfound](https://wellfound.com/jobs)
