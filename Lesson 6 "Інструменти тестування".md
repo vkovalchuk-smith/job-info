@@ -1,3 +1,4 @@
+### Lesson 6 "Інструменти тестування"
 1. [Log in to Jira](https://id.atlassian.com/login)
 2. [Trello](https://trello.com/signup)
 3. [Google Chrome для Exploratory Testing](https://chrome.google.com/webstore/detail/exploratory-testing-chrom/khigmghadjljgjpamimgjjmpmlbgmekj?hl=en)
