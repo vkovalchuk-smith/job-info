@@ -1,4 +1,4 @@
-### Lesson 3 "Тестова документація"
+### Test documentation - samples and instructions
 1. [Пам'ятка по чек-листам](https://docs.google.com/presentation/d/1o-cnh3rx6Axwhlsr6lsdu0JDSGRX4BSlZ1Zh6R0_Mns/edit?usp=sharing)
 2. [Темплейт для Чек-листа](https://docs.google.com/spreadsheets/d/1t0UyK-uvtvZcZgYD02UNCfU5xsWbZnQH8ZN7oTHWrYg/edit?usp=sharing)
 3. [Пам'ятка по тест кейсам](https://docs.google.com/presentation/d/1dU9j05Ggxmlba6udKdNPx_nxCoQd3nDdS276cND_1KY/edit?usp=sharing)
