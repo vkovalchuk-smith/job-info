@@ -50,8 +50,8 @@ Here I collect information about finding a job abroad. I added to this list not 
 4. [The WHO Method – Resume Writing Techniques](https://education.msu.edu/kin-nections/2016/the-who-method-resume-writing-techniques/)
 5. [THE C.A.R. TECHNIQUE: YOUR SECRET INTERVIEWING WEAPON](https://thehiredguns.com/car-technique-secret-interviewing-weapon/#:~:text=R%20%3D%20Result-,So%20what%20does%20the%20acronym%20C.A.R.,and%20useful%20to%20the%20recipient.)
 
-### 🦆 Service for reviewing your CV by professional HRs and recruiters:
-1. [CV Duck](https://cvduck.pro/) Note: The site is under construction now, but maybe it will work later.
+### 🦆 Service for fixing your CV:
+1. [JobScan](https://www.jobscan.co/)
 
 ### 📝 My CV and Cover letter, as a sample. I believe it isn't ideal but I found a job with it, then it works 🎉:
 1. [CV Vlad Kovalchuk](https://docs.google.com/document/d/1MspinRj1gH04aCvx2xBntQ8y_D80exHMtadglPouImo/edit)
