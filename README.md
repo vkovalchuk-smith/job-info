@@ -52,6 +52,7 @@ Here I collect information about finding a job abroad. I added to this list not 
 
 ### 🦆 Service for fixing your CV:
 1. [JobScan](https://www.jobscan.co/)
+2. [ResumeAI](https://withresumeai.com/) — Free ATS checker + AI resume builder; State of ATS 2026 (738/704, Workday 37.9%)
 
 ### 📝 My CV and Cover letter, as a sample. I believe it isn't ideal but I found a job with it, then it works 🎉:
 1. [CV Vlad Kovalchuk](https://docs.google.com/document/d/1MspinRj1gH04aCvx2xBntQ8y_D80exHMtadglPouImo/edit)
